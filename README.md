@@ -1,6 +1,6 @@
 # Hi there 👋
 
-Welcome to my GitHub profile. I'm a teacher for software development at a technical highschool in Vienna, Austria @Die-Spengergasse.
+Welcome to my GitHub profile. I'm a teacher for software development at @Die-Spengergasse, a technical highschool in Vienna, Austria.
 
 Besides teaching, I'm interested in programming languages, paradigms and concepts, the philosophy of (programming languages|information|technology) and software engineering in general.
 

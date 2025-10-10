@@ -11,6 +11,7 @@ The projects on GitHub profile are both teaching and research/study related. I'm
 - [goo](https://github.com/mfreimueller/goo) - Brainfuck compiler written in C++
 - [knork](https://github.com/mfreimueller/knork) - Automation tool for desktop specific tasks, written in C++
 - [repograde](https://github.com/mfreimueller/repograde) - Automation tool for autograding student repositories on a pass/fail basis
+- [exam-gen](https://github.com/mfreimueller/exam-gen) - A Rust tool for creating unique exams using LaTeX.
 
 # Skills
 

@@ -4,7 +4,7 @@ Welcome to my GitHub profile. I'm a teacher for software development at @Die-Spe
 
 Besides teaching, I'm interested in programming languages, paradigms and concepts, the philosophy of (programming languages|information|technology) and software engineering in general.
 
-The projects on GitHub profile are both teaching and research/study related. I'm currently looking for a way to structure the content to differentiate between both, without needing to resort to a second account.
+The projects on my GitHub profile are both teaching and research/study related. I'm currently looking for a way to structure the content to differentiate between both, without needing to resort to a second account.
 
 # Projects
 
